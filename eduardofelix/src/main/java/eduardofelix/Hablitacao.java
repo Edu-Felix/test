@@ -5,7 +5,7 @@ public class Hablitacao {
 	public static void main(String[] args) {
 	String nome =" Lorenzo ";	
 	int idade = 18;	
-	int idadePermitida =  33 ;
+	int idadePermitida =  34 ;
 	boolean emancipado =true;
 
 	// valida a primeira ou a segunda condicao
@@ -16,7 +16,7 @@ public class Hablitacao {
 		
 		
 	}else {
-		 System.out.println("voce nao pode tirar habilitaçao " + nome); 
+		 System.out.println("voce nao pode tirar habilitaÃ§ao " + nome); 
 	}
 			
 
